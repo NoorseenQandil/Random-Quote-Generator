@@ -47,8 +47,8 @@ The app features a clean and intuitive user interface with various functionaliti
 
 
 ## Getting Started
-1-Clone or download this repository to your local machine.
-2-Open the index.html file in a web browser.
+1- Clone or download this repository to your local machine.
+2- Open the index.html file in a web browser.
 
 ## Quotes Array
 The quotes array in the JavaScript code contains a curated collection of insightful quotes to inspire. Feel free to modify or expand this array with your preferred quotes.
