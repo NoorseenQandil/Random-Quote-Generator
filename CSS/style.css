@@ -153,11 +153,12 @@
     margin-inline: 5px;
     cursor: pointer;
   }
-  ul li:hover i{
-    color: var(--icon-color);
+ul li:hover i{
+    box-shadow: 0 0 22px 0px var(--neon-blue);
   }
   ul li:hover{
     border: var(--icon-color) 1px solid;
+    box-shadow: 0 0 22px 0px var(--neon-blue);
   }
   ul li i {
     transition: all 0.3s;
