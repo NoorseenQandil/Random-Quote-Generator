@@ -74,4 +74,4 @@ Feel free to interact with the project, browse through different jobs, and explo
 If you have suggestions or find issues with the template, feel free to open an issue or create a pull request. Contributions are welcome!
 
 ## Contact
-If you have any questions, feedback, or suggestions, please feel free to reach out to us at Nour@gmail.com We value your input and would love to hear from you!
+If you have any questions, feedback, or suggestions, please feel free to reach out to us at NourseenQandil@gmail.com We value your input and would love to hear from you!
