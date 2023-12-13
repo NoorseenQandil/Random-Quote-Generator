@@ -48,6 +48,7 @@ The app features a clean and intuitive user interface with various functionaliti
 
 ## Getting Started
 1- Clone or download this repository to your local machine.
+
 2- Open the index.html file in a web browser.
 
 ## Quotes Array
@@ -66,6 +67,7 @@ https://parade.com/1247073/marynliles/gandhi-quotes/
 Experience the Tabs Project in action! Click the link below to access the live demo:
 
 [Live Demo] ([https://your-live-demo-url](https://noorseenqandil.github.io/Random-Quote-Generator/))
+
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
 ## Contributing
